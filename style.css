@@ -1,0 +1,38 @@
+.site-header{
+	 display: flex;
+  	border-bottom: 2px solid black;
+  	padding: 10px 20px;
+
+
+    
+}
+
+.site-header strong{
+	font-size: 40px;
+}
+
+.nav-link{
+
+	display:inline-flex;
+	gap:30px;
+	margin:0;
+	padding-left: 31.25rem;
+}
+
+.nav-link li{
+	list-style-type: none;
+	font-size: 20px;
+	
+}
+
+
+.secondary-info {
+
+  border: 1px solid black;
+ 
+}
+
+.card-body{
+	border: 2px solid black;
+	padding: 5px 5px;
+}
